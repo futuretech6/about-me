@@ -11,5 +11,5 @@ My academic interests revolve around system security and blockchain security, wi
 
 ## Education
 
-- 09/2022 - 06/2025 (expected), MEng, Zhejiang University
-- 09/2018 - 06/2022, BEng, Zhejiang University
+- 09/2022 - 06/2025, M.Eng. in Computer Science, Zhejiang University
+- 09/2018 - 06/2022, B.Eng. (Honors) in Computer Science, Zhejiang University
