@@ -1,6 +1,6 @@
 # Xiyao Chen
 
-- Master @ Dept. of Computer Sci. & Tech., Zhejiang University
+- Master @ Coll. of Computer Sci. & Tech., Zhejiang University
 - E-Mail: xiyao\_chen@zju.edu.cn
 
 ## About Me
